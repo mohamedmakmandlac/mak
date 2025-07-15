@@ -1,0 +1,219 @@
+[
+  {
+    "user": "Show leads with status Pending",
+    "bot": "No leads found matching 'with status Pending'",
+    "timestamp": "2025-06-27 12:11:57.375350"
+  },
+  {
+    "user": "Show leads",
+    "bot": "No leads found matching ''",
+    "timestamp": "2025-06-27 12:12:26.506129"
+  },
+  {
+    "user": "Show leads",
+    "bot": "No leads found matching ''",
+    "timestamp": "2025-06-27 12:12:32.704784"
+  },
+  {
+    "user": "client_name kader",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:20:11.108433"
+  },
+  {
+    "user": "show all leads",
+    "bot": "All Leads:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** kader, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Meeting:** N/A at \n",
+    "timestamp": "2025-06-27 12:20:41.134819"
+  },
+  {
+    "user": "lead counts",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:21:16.069288"
+  },
+  {
+    "user": "lead counts",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:21:19.973182"
+  },
+  {
+    "user": "lead count",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:21:25.083561"
+  },
+  {
+    "user": "lead count",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:21:26.538081"
+  },
+  {
+    "user": "lead count",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:24:54.211918"
+  },
+  {
+    "user": "lead count",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:24:59.945716"
+  },
+  {
+    "user": "lead count",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:26:35.598553"
+  },
+  {
+    "user": "lead count",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:29:18.479497"
+  },
+  {
+    "user": "lead show",
+    "bot": "Sorry, I couldn't generate a response due to an error.",
+    "timestamp": "2025-06-27 12:29:30.394849"
+  },
+  {
+    "user": "show all leads",
+    "bot": "All Leads:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** kader, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Meeting:** N/A at \n",
+    "timestamp": "2025-06-27 12:39:17.927021"
+  },
+  {
+    "user": "most valuable customers",
+    "bot": "No leads currently qualify as \"most valuable customers.\"  The provided data only includes one lead (\"kader\") with a 50% probability and no confirmed meeting or project.  More data is needed to determine valuable customers.\n",
+    "timestamp": "2025-06-27 12:39:35.129805"
+  },
+  {
+    "user": "most valuable customers",
+    "bot": "There is insufficient data to determine the most valuable customers.  The provided lead data only includes one lead with a 50% probability and no revenue or other value metrics.  More data is needed.\n",
+    "timestamp": "2025-06-27 12:44:32.736265"
+  },
+  {
+    "user": "most valuable customers",
+    "bot": "Based on the provided data, there is only one lead, and it is not yet a customer (status: Pending).  Therefore, there are currently no *most valuable customers*.  The lead \"kader\" from \"kader pvt lid\" shows a 50% probability of conversion.  A demo is scheduled for next week.\n",
+    "timestamp": "2025-06-27 12:45:38.099482"
+  },
+  {
+    "user": "how many lead count",
+    "bot": "There is 1 lead.\n",
+    "timestamp": "2025-06-27 12:45:48.799639"
+  },
+  {
+    "user": "List all pending leads",
+    "bot": "Pending Leads:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** kader, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Budget:** None USD, **Meeting:** N/A at \n",
+    "timestamp": "2025-06-27 17:04:51.551073"
+  },
+  {
+    "user": "show all leads",
+    "bot": "All Leads:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** kader, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Budget:** None USD, **Meeting:** N/A at \n* **Lead ID:** 5aaa6540-95f9-4b36-bc49-5888cf7d6738, **Client:** Tech Solutions Inc, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 USD, **Meeting:** 2023-06-15 at 10:30\n* **Lead ID:** 36e739cd-9228-45cc-941c-a88ee512d640, **Client:** suba, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 INR, **Meeting:** 2023-06-15 at 10:30\n* **Lead ID:** bea706c5-80e4-4a2f-b65c-b864da7b2d90, **Client:** Subalaksh, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000 INR, **Meeting:** 2023-06-15 at 10:30\n",
+    "timestamp": "2025-06-27 17:05:02.787082"
+  },
+  {
+    "user": "lead counts",
+    "bot": "Total Leads: 4\n\n* **kader:** Pending, Budget: None USD\n* **Tech Solutions Inc:** Contacted, Budget: 75000.0 USD\n* **suba:** Contacted, Budget: 75000.0 INR\n* **Subalaksh:** Contacted, Budget: 75000 INR\n\nNo upcoming meetings based on provided data.\n",
+    "timestamp": "2025-06-27 17:07:08.323547"
+  },
+  {
+    "user": "show all leads",
+    "bot": "All Leads:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** kader, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Budget:** None USD, **Meeting:** N/A at \n* **Lead ID:** 5aaa6540-95f9-4b36-bc49-5888cf7d6738, **Client:** Tech Solutions Inc, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 USD, **Meeting:** 2023-06-15 at 10:30\n* **Lead ID:** 36e739cd-9228-45cc-941c-a88ee512d640, **Client:** suba, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 INR, **Meeting:** 2023-06-15 at 10:30\n* **Lead ID:** bea706c5-80e4-4a2f-b65c-b864da7b2d90, **Client:** Subalaksh, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000 INR, **Meeting:** 2023-06-15 at 10:30\n",
+    "timestamp": "2025-06-27 17:07:27.812988"
+  },
+  {
+    "user": "show lead kader",
+    "bot": {
+      "id": "efb4c9c3-b31f-4863-b34a-cfede0071c63",
+      "client_name": "kader",
+      "company_name": "kader pvt lid",
+      "email": "mohamedb@mandlac.com",
+      "phone": "+916380460353",
+      "project_requirements": "he want a demo for next week valiable lead",
+      "status": "Pending",
+      "budget": null,
+      "budget_currency": "USD",
+      "probability": 50,
+      "meeting_date": "N/A",
+      "meeting_time": "",
+      "notes": "N/A",
+      "created_at": "2025-06-27 12:16:27.988109",
+      "last_updated": "2025-06-27 12:16:27.988109",
+      "customer_type": "Other",
+      "created_by": "Admin User",
+      "created_by_id": "bf2deb48-970e-4079-855c-0fcba5af00f0",
+      "assigned_to": "N/A",
+      "assigned_to_id": "N/A",
+      "cancel_reason": "N/A"
+    },
+    "timestamp": "2025-06-27 17:07:37.734540"
+  },
+  {
+    "user": "lead kader budget_currency change usd to inr",
+    "bot": "Lead kader has no budget specified.  To change the currency to INR requires a budget amount.\n",
+    "timestamp": "2025-06-27 17:08:50.125765"
+  },
+  {
+    "user": "lead kader",
+    "bot": "Lead kader (efb4c9c3-b31f-4863-b34a-cfede0071c63):  Pending, Budget: None USD, Project: Demo requested next week.\n",
+    "timestamp": "2025-06-27 17:09:20.337281"
+  },
+  {
+    "user": "lead kader update the name in to mohamed mak",
+    "bot": "Lead ID efb4c9c3-b31f-4863-b34a-cfede0071c63 (kader) has been updated.  Client name changed to Mohamed Mak.  No meetings scheduled for this lead.\n",
+    "timestamp": "2025-06-27 17:09:54.666242"
+  },
+  {
+    "user": "show all lead",
+    "bot": "All Leads:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** Mohamed Mak, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Budget:** None USD, **Meeting:** N/A at \n* **Lead ID:** 5aaa6540-95f9-4b36-bc49-5888cf7d6738, **Client:** Tech Solutions Inc, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 USD, **Meeting:** 2023-06-15 at 10:30\n* **Lead ID:** 36e739cd-9228-45cc-941c-a88ee512d640, **Client:** suba, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 INR, **Meeting:** 2023-06-15 at 10:30\n* **Lead ID:** bea706c5-80e4-4a2f-b65c-b864da7b2d90, **Client:** Subalaksh, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000 INR, **Meeting:** 2023-06-15 at 10:30\n",
+    "timestamp": "2025-06-27 17:10:11.512318"
+  },
+  {
+    "user": "download all lead",
+    "bot": "Lead Data Download:\n\n**Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63\n**Client:** Mohamed Mak\n**Company:** kader pvt lid\n**Status:** Pending\n**Probability:** 50%\n**Budget:** None USD\n**Project:** Demo requested next week\n\n**Lead ID:** 5aaa6540-95f9-4b36-bc49-5888cf7d6738\n**Client:** Tech Solutions Inc\n**Company:** Tech Solutions Corporation\n**Status:** Contacted\n**Probability:** 80%\n**Budget:** 75000.0 USD\n**Project:** Complete office security system\n\n**Lead ID:** 36e739cd-9228-45cc-941c-a88ee512d640\n**Client:** suba\n**Company:** Tech Solutions Corporation\n**Status:** Contacted\n**Probability:** 80%\n**Budget:** 75000.0 INR\n**Project:** Complete office security system\n\n**Lead ID:** bea706c5-80e4-4a2f-b65c-b864da7b2d90\n**Client:** Subalaksh\n**Company:** Tech Solutions Corporation\n**Status:** Contacted\n**Probability:** 80%\n**Budget:** 75000 INR\n**Project:** Complete office security system\n\n\n**Note:**  All meetings listed in the data are in the past (2023-06-15).\n",
+    "timestamp": "2025-06-27 17:11:03.872696"
+  },
+  {
+    "user": "download all lead csv",
+    "bot": "Here's your CSV data:\n\n```csv\nLead ID,Client,Company,Status,Probability,Budget,Meeting,Project,Notes\nefb4c9c3-b31f-4863-b34a-cfede0071c63,Mohamed Mak,kader pvt lid,Pending,50%,None USD,N/A,he want a demo for next week valiable lead,N/A\n5aaa6540-95f9-4b36-bc49-5888cf7d6738,Tech Solutions Inc,Tech Solutions Corporation,Contacted,80%,75000.0 USD,2023-06-15 at 10:30,Complete office security system with CCTV, access control and alarm system,Client is particularly interested in biometric access control\n36e739cd-9228-45cc-941c-a88ee512d640,suba,Tech Solutions Corporation,Contacted,80%,75000.0 INR,2023-06-15 at 10:30,Complete office security system with CCTV, access control and alarm system,Client is particularly interested in biometric access control\nbea706c5-80e4-4a2f-b65c-b864da7b2d90,Subalaksh,Tech Solutions Corporation,Contacted,80%,75000 INR,2023-06-15 at 10:30,Complete office security system with CCTV, access control and alarm system,Client is particularly interested in biometric access control\n```\n\n**Reminder:**  All listed meetings occurred over two years ago.  Follow-up on the pending lead (Mohamed Mak) is recommended.\n",
+    "timestamp": "2025-06-27 17:11:25.370138"
+  },
+  {
+    "user": "i wnat users list",
+    "bot": "Mohamed Mak (kader pvt lid): Pending, Budget: None, Project: Demo next week.\nTech Solutions Inc (Tech Solutions Corporation): Contacted, Budget: $75000, Project: Complete office security system.  \nsuba (Tech Solutions Corporation): Contacted, Budget: 75000 INR, Project: Complete office security system.\nSubalaksh (Tech Solutions Corporation): Contacted, Budget: 75000 INR, Project: Complete office security system.\n\nNo upcoming reminders.\n",
+    "timestamp": "2025-06-27 17:14:37.494847"
+  },
+  {
+    "user": "i want users list",
+    "bot": "Mohamed Mak (kader pvt lid): Pending, Budget: None, Project: Demo next week.\nTech Solutions Inc (Tech Solutions Corporation): Contacted, Budget: $75000, Project: Complete office security system.\nsuba (Tech Solutions Corporation): Contacted, Budget: 75000 INR, Project: Complete office security system.\nSubalaksh (Tech Solutions Corporation): Contacted, Budget: 75000 INR, Project: Complete office security system.\n\nNo upcoming meetings based on provided data.\n",
+    "timestamp": "2025-07-01 11:46:32.760711"
+  },
+  {
+    "user": "i want leads list",
+    "bot": "Lead List:\n\n* **Lead ID:** efb4c9c3-b31f-4863-b34a-cfede0071c63, **Client:** Mohamed Mak, **Company:** kader pvt lid, **Status:** Pending, **Probability:** 50%, **Budget:** None, **Project:** Demo requested next week.\n\n* **Lead ID:** 5aaa6540-95f9-4b36-bc49-5888cf7d6738, **Client:** Tech Solutions Inc, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 USD, **Project:** Complete office security system.  Meeting scheduled for 2023-06-15 at 10:30 (Past).\n\n* **Lead ID:** 36e739cd-9228-45cc-941c-a88ee512d640, **Client:** suba, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000.0 INR, **Project:** Complete office security system. Meeting scheduled for 2023-06-15 at 10:30 (Past).\n\n* **Lead ID:** bea706c5-80e4-4a2f-b65c-b864da7b2d90, **Client:** Subalaksh, **Company:** Tech Solutions Corporation, **Status:** Contacted, **Probability:** 80%, **Budget:** 75000 INR, **Project:** Complete office security system. Meeting scheduled for 2023-06-15 at 10:30 (Past).\n\nNote:  All meetings listed are in the past.\n",
+    "timestamp": "2025-07-01 11:47:28.066806"
+  },
+  {
+    "user": "leads count",
+    "bot": "There are 4 leads.\n",
+    "timestamp": "2025-07-01 11:48:32.077771"
+  },
+  {
+    "user": "Subalaksh leads",
+    "bot": "Subalaksh lead (ID: bea706c5-80e4-4a2f-b65c-b864da7b2d90):\n\n* **Status:** Contacted\n* **Probability:** 80%\n* **Budget:** 75000 INR\n* **Meeting:** 2023-06-15 at 10:30 (Past Meeting)\n* **Project:** Complete office security system with CCTV, access control and alarm system.  Client interested in biometric access control.\n\nReminder: This meeting is in the past.  Follow up may be needed.\n",
+    "timestamp": "2025-07-01 11:48:56.241484"
+  },
+  {
+    "user": "above 80% leads details",
+    "bot": "Leads with probability above 80%:\n\n* **Lead ID:** 5aaa6540-95f9-4b36-bc49-5888cf7d6738\n    * **Client:** Tech Solutions Inc\n    * **Budget:** 75000.0 USD\n    * **Meeting:** 2023-06-15 at 10:30 (Past Meeting)\n\n* **Lead ID:** 36e739cd-9228-45cc-941c-a88ee512d640\n    * **Client:** suba\n    * **Budget:** 75000.0 INR\n    * **Meeting:** 2023-06-15 at 10:30 (Past Meeting)\n\n* **Lead ID:** bea706c5-80e4-4a2f-b65c-b864da7b2d90\n    * **Client:** Subalaksh\n    * **Budget:** 75000 INR\n    * **Meeting:** 2023-06-15 at 10:30 (Past Meeting)\n\nAll listed meetings are in the past.\n",
+    "timestamp": "2025-07-01 11:49:33.564505"
+  },
+  {
+    "user": "Subalaksh update name into rasik",
+    "bot": "Lead ID bea706c5-80e4-4a2f-b65c-b864da7b2d90 (Client: Subalaksh) updated to Client: Rasik.  All other data remains unchanged.\n",
+    "timestamp": "2025-07-01 11:51:00.001155"
+  },
+  {
+    "user": "Subalaksh client_name  update  into rasik",
+    "bot": "Lead ID bea706c5-80e4-4a2f-b65c-b864da7b2d90 (Subalaksh) has been updated to rasik.  Please confirm the client name change.\n",
+    "timestamp": "2025-07-01 11:51:46.225270"
+  },
+  {
+    "user": "rasik lead",
+    "bot": "Lead rasik (Lead ID: bea706c5-80e4-4a2f-b65c-b864da7b2d90):\n\n* **Company:** Tech Solutions Corporation\n* **Status:** Contacted\n* **Probability:** 80%\n* **Budget:** 75000 INR\n* **Meeting:**  2023-06-15 at 10:30 (Past Meeting)\n* **Project:** Complete office security system with CCTV, access control and alarm system.  Client interested in biometric access control.\n\nReminder: This meeting is in the past.\n",
+    "timestamp": "2025-07-01 11:51:59.527256"
+  }
+]

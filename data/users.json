@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bf2deb48-970e-4079-855c-0fcba5af00f0",
+    "username": "admin",
+    "password": "scrypt:32768:8:1$qhrh1ZPeGu5oxa1q$322814a95c6f09c924096cc193fb56a4e7824afe473c9a3571c7f5416a957364470911d9032de073b5a9fa48d1cc234fad573b61ea12f33528ca420d7e20ddc2",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "is_admin": true,
+    "created_at": "2025-06-27 11:59:38.788876"
+  },
+  {
+    "id": "7c8502a6-29b8-4c80-b76e-46404a09fcfa",
+    "username": "newuser",
+    "password": "scrypt:32768:8:1$V4hvm3oQJauqDGK2$152960362496fe169b706ba95992ada5e24bdce10f5793428031e0d2ed7a16be0ffc3a24696df46a3a93e84b5c5561b45bfa0c23de97b615f4a8989399104205",
+    "name": "New User",
+    "email": "new.user@example.com",
+    "is_admin": false,
+    "created_at": "2025-06-27 17:15:11.456046"
+  }
+]
