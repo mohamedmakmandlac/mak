@@ -9,7 +9,7 @@ ENV FAISS_INDEX_PATH=/app/data/faiss_index.index
 ENV LEADS_FILE=/app/data/leads.json
 ENV CHAT_HISTORY_FILE=/app/data/chat_history.json
 ENV USERS_FILE=/app/data/users.json
-
+#add command
 # Set work directory
 WORKDIR /app
 
