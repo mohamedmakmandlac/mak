@@ -1303,7 +1303,7 @@ def admin_required(f):
         if not current_user['is_admin']:
             return jsonify({'message': 'Admin access required!'}), 403
         return f(current_user, *args, **kwargs)
-    return decorated
+    #return decorated
 
 # Helper Functions
 def normalize_lead(lead):
