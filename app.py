@@ -1306,7 +1306,7 @@ def admin_required(f):
     return decorated
 
 # Helper Functions
-def normalize_lead(lead):
+#def normalize_lead(lead):
     """Normalize lead data to ensure consistency."""
     normalized = lead.copy()
     if 'name' in normalized and 'client_name' not in normalized:
