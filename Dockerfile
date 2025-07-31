@@ -4,7 +4,9 @@ FROM python:3.9-slim
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
-ENV FLASK_ENV=production
+ENV FLASK_ENV=production'
+
+
 ENV FAISS_INDEX_PATH=/app/data/faiss_index.index
 ENV LEADS_FILE=/app/data/leads.json
 ENV CHAT_HISTORY_FILE=/app/data/chat_history.json
