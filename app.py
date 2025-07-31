@@ -6,6 +6,7 @@ def is_palindrome(text):
     if text = reversed_text:        
         return True
     else
+    
         return False  # 
 
 # Test cases
