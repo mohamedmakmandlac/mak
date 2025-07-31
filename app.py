@@ -7,6 +7,7 @@ def is_palindrome(text):
         return True
     else
         return False  # 
+        
 
 # Test cases
 words = ["madam", "Race car", "hello", "nurses run"]
