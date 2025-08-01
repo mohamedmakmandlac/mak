@@ -3,11 +3,14 @@ FROM python:3.9-slim
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
-ENV PYTHONUNBUFFERED 1
+ENV PYTHONUNB\
+
+UFFERED 1
 ENV FLASK_ENV=production'
 
 
-ENV FAISS_INDEX_PATH=/app/data/faiss_index.index
+ENV FAISS_INDEX_
+PATH=/app/data/faiss_index.index
 ENV LEADS_FILE=/app/data/leads.json
 ENV CHAT_HISTORY_FILE=/app/data/chat_history.json
 ENV USERS_FILE=/app/data/users.json
@@ -20,12 +23,7 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends gcc python3-dev && \
     rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy project files
-COPY . .
 
 # Create data directory and initialize files
 RUN mkdir -p /app/data && \
