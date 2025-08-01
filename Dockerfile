@@ -7,18 +7,6 @@ ENV PYTHONUNBUFFERED 1
 ENV FLASK_ENV=production'
 
 
-ENV FAISS_INDEX_PATH=/app/data/faiss_index.index
-ENV LEADS_FILE=/app/data/leads.json
-ENV CHAT_HISTORY_FILE=/app/data/chat_history.json
-ENV USERS_FILE=/app/data/users.json
-
-# Set work directory
-WORKDIR /app
-
-# Install system dependencies
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends gcc python3-dev && \
-    rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies
 COPY requirements.txt .
