@@ -4,6 +4,7 @@ def is_palindrome(text):
     text = text.lower().replace(" ", "")
     # Reverse the text using slicing
     reversed_text = text[::-1]
+    
     # Check if the original and reversed texts are the same
     return text == reversed_text
 
