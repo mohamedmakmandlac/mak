@@ -5,7 +5,11 @@ def is_palindrome(text):
     # Reverse the text using slicing
     
     reversed_text = text[::-1]
-    # Check if the original and reversed texts are the same
+    # Check if the original and reversed te
+    
+    
+    
+    xts are the same
     return text == reversed_text
 
 # Test cases
