@@ -1,0 +1,5 @@
+# Intentional errors for testing
+def add_numbers(a, b)
+    result = a + b
+    print("The sum is: " result)
+    return result
