@@ -5,7 +5,6 @@ def is_palindrome(text):
     reversed_text = text.reverse()  
     if text = reversed_text:        
         return True
-    else
-        return False  # 
+    els\
 
 
