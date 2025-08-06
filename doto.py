@@ -10,15 +10,6 @@ class Task:
         self.completed = completed
         self.created_at = created_at if created_at else datetime.now().isoformat()
 
-    def mark_complete(self):
-        self.completed = True
-
-    def to_dict(self):
-        return {
-            "title": self.title,
-            "completed": self.completed,
-            "created_at": self.created_at
-        }
 
     @staticmethod
     def from_dict(data):
