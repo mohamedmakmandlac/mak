@@ -9,6 +9,7 @@ def is_palindrome(text):
         return False  # 
 
 # Test cases
+
 words = ["madam", "Race car", "hello", "nurses run"]
 for word in words:
     result = is_palindrome(word)
